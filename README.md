@@ -1,4 +1,4 @@
-# starlight-store
+# shayna-store
 
 ## Project setup
 ```
